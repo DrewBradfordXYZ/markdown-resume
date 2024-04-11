@@ -48,7 +48,7 @@ pandoc resume.md -f markdown -t html -c resume-stylesheet.css -s -o resume.html
 ## Markdown to PDF
 
 ```
-pandoc resume.md -f markdown -t pdf --pdf-engine=wkhtmltopdf -c resume-stylesheet.css -s -o resume.pdf
+pandoc resume.md -f markdown -t pdf --pdf-engine=wkhtmltopdf --pdf-engine-opt=--enable-local-file-access -c resume-stylesheet.css -s -o resume.pdf
 ```
 
 ## HTML to PDF

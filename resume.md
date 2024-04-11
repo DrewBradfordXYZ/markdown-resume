@@ -3,75 +3,71 @@ margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
-title: Your Resume in Markdown
-description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
+title: Drew Bradford
+description-meta: 'Resume of Drew Bradford, a software engineer'
 keywords:
-  - 'php'
-  - 'mysql'
-  - 'linux'
+  - 'JavaScript'
+  - 'QuickBase'
+  - 'Golang'
+  - 'Linux'
 author:
-- I am the author
-subject: 'Subject'
+- Drew Bradford
+subject: 'Resume'
 ---
-###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
+###### 917.373.3131 | drewbradfordxyz@gmail.com | [linkedin.com/in/dbxyz.com](https://www.linkedin.com/in/dbxyz/)
 
-### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way
+## Summary
+
+I am a software engineer with a passion for crafting and maintaining robust software systems. I have experience in a variety of languages, technologies and industries. I am a quick learner and a team player.
 
 ## Skills
 
-```programming```
-```devops```
-```databases```
-```containers```
-```linux systems administration```
-```webservers```
-```project management```
-```system architecture & design```
-```entrepreneurship```
-```load/stress testing```
-```WordPress```
+```Relational Database Architecture```
+```User Interfaces```
+```Web Servers```
+```Testing```
+```System Administration```
+```Project Management```
+```Business Solutions```
+```Problem Solving```
+```Customer Service```
 
-**Programming**: Lua, Haskell, Erlang, Go, Javascript
-**Databases**: MySQL, Postgres, sqlite, SQL Server, Oracle, Pick
-**Linux**: Gentoo, Alpine, CentOS, Ubuntu, Debian
-**DevOps**: Ansible, Chef, Kubernetes, etc.
+|                  |                   |
+| ---------------- | ----------------- |
+| **Languages:**  | JavaScript, Go, Lua, SQL, HTML, CSS |
+| **Technology:**  | Vue, React, HTMX, QuickBase, Git |
+| **Tools:**  | Neovim, Tmux, Wezterm, Awesomewm, Linux, MacOs · [github/.dotfiles](https://github.com/DrewBradfordXYZ/.dotfiles)|
 
 ## Experience
 
-### CEO and Founder, Pied Piper
+### Application Developer, Hitachi Vantara
+Full-time · Remote · Jun 2020 - May 2024 · 3yrs 11mos
 
-start-date-end-date, City, State and remote
+- Engineered CPQ solutions for data-storage-services built using Node.js, Vue.js and the QuickBase JSON RESTful API.
 
-- Things you did/do here
-- More things that you do here.
+**Technologies used:** Vue.js, QuickBase, Jira, Confluence, Git
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
+### QuickBase Database Manager, CTC Transportation Insurance Services
+Full-time · Red Bank, NJ · Jun 2016 - Aug 2017 · 1yr 3mos
 
-### Senior Software Architect, Hooli
+- Initiated QuickBase App updates and harnessed the XML API with JavaScript to transform data.
 
-2010-2016, San Francisco, CA
-
-- This is the job you had before your latest job
-- Did you do anything that wasn't part of your job description, but you excelled at?
-
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job.
-
-## Awards & Recognition
-
-- Winner TechCrunch Disrupt 2001
-- People Magazine's sexiest man alive at 123 My Address, MyCity, TX
+**Technologies used:** QuickBase, JavaScript
 
 ## Projects
 
-**[*Personal Blog*](http://luther.io)** (2021-present)
+### Document Generation Tool for SOWs, PDDs and Proposals
+Developed a Word Document generator that stores files in QuickBase for seamless storage. Document templates and variables within Quickbaseare easily accessible. Template HTML is converted to DOCX files. The document dynamically adjusts based on various criteria such as Deal Type, GEO, Sales District, Billing Type, Customer Type and Risk Category.
 
-- Authored a series of articles covering a wide variety of topics and tools related to technology like PHP, WordPress, Ruby, Linux, Docker, and Privacy.
+### Task Based Service Calculator
+Developed an intuitive cart based calculator UI in Vue.js for scoping services. Users can allocate quantities to predefined tasks, add co-provider information and add custom LOE to specific Roles. SMEs have access to a QuickBase app that controls the entire display and behavior of the Vue.js app. The calculator features a seamless document-variable system that hydrates the "Document Generation Tool" mentioned above. Redacted screen-shots of the front-end are available on request.
+
+### Bundled Services Calculator
+Developed a streamlined, single-button service creation tool with simplified form inputs that auto-calculates and creates a complete bid. A series of "cost-factor" and "site-tier" table lookups calculate LOE for Roles in each Service associated with a selected Component Type.
 
 ## Education
 
-### Masters in BS, Example University
-
-- 4.0 GPA
-- Deans List
-- Member of xyz club, etc.
-- I didn't really go to college so I don't know what you would put here.
+### Pratt Institute
+Bachelors Digital Art · Brooklyn, NY · 2009 - 2013\
+Autodesk Maya, Adobe Creative Suite\
+Produced an animated short film capstone project, earning selection for screening at the prestigious Pratt Show. Graduated with honors.
